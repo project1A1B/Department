@@ -13,11 +13,15 @@ In order to help Big Mart achieve this goal , a predictive model can be build to
 1. PROF. VISHAL PATIL  [ Primary Guide ] 
 
 ### Deployment Steps
-Please follow the below steps to run this project.
-1. Step 1 here
-2. Step 2 here
-3. Step 3 here
-3. and so on...
+1. Collection of the data is done
+2. Preparation of the data
+3. EDA
+4. Data Cleaning
+5. Pre-processing
+6. Model building
+7. Hyperparameter tuning
+8. Saving the Model
+9. Deployment
 
 ### Subject Details
 - Class : TE (COMP) Div A - 2022-2023
