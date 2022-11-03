@@ -30,9 +30,4 @@ Please follow the below steps to run this project.
 3. [TensorFlow](https://tensorflowjs.com)
 
 ### Dataset Used
-1. [Kaggle Dataset 1](https://kaggle.com/dataset1)
-2. [Kaggle Dataset 2](https://kaggle.com/dataset2)
-
-### References
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
+https://www.kaggle.com/datasets/mrmorj/big-mart-sales
