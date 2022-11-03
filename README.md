@@ -28,10 +28,9 @@ In order to help Big Mart achieve this goal , a predictive model can be build to
 - Subject : Mini Project : 2A (MP2A(P)(2019))
 - Project Type : Mini Project
 
-### Platform, Libraries and Frameworks used
-1. [NodeJS](https://nodejs.org)
-2. [ExpressJS](https://expressjs.org)
-3. [TensorFlow](https://tensorflowjs.com)
+### Platform, Libraries and Frameworks used:
+1. Jupyter Notebook
+2. Pycharm
 
 ### Dataset Used
 https://www.kaggle.com/datasets/mrmorj/big-mart-sales
